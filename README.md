@@ -6,15 +6,12 @@
 - 现代化主题（gruvbox）+ 彩虹括号
 - NERDTree 文件树（;n 呼出）
 - Taglist 函数大纲（;m 呼出）
-- Coc.nvim 智能补全（需 Node.js）
+- Coc.nvim 智能补全（内置 Node.js 依赖）
 - F2 一键编译运行 C/C++/Python/Java
 - F5 快速打开终端
-- 自动保存 + 语法检查 + 代码格式化
+- 自动保存 + 语法检查
 - 新建文件自动生成文件头注释
-- ;n 打开文件树
-- ;m 打开函数列表
 
-## 🍀一键安装命令
-'''
+## 📦 一键安装（Ubuntu/Debian）
+```bash
 git clone https://github.com/Ethan0641/EthVim.git && cd EthVim && chmod +x EthVim-install.sh && ./EthVim-install.sh
-'''
