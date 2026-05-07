@@ -13,3 +13,8 @@
 - 新建文件自动生成文件头注释
 - ;n 打开文件树
 - ;m 打开函数列表
+
+## 🍀一键安装命令
+'''
+git clone https://github.com/Ethan0641/EthVim.git && cd EthVim && chmod +x EthVim-install.sh && ./EthVim-install.sh
+'''
