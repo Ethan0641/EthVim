@@ -9,7 +9,7 @@
 - Coc.nvim 智能补全（内置 Node.js 依赖）
 - F2 一键编译运行 C/C++/Python/Java
 - F5 快速打开终端
-– F6 临时Markdown终端预览
+- F6 临时Markdown终端预览
 - 自动保存 + 语法检查
 - 新建文件自动生成文件头注释
 
